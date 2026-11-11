@@ -16,3 +16,17 @@ __pycache__/
 
 # macOS
 .DS_Store
+# Python virtual environments
+.venv/
+.venv-radiomics/
+.venv-py39/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
